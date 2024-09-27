@@ -1,6 +1,6 @@
 <div align="center">
   
-# __*Curso Inicial de JavaScript*__ 
+# __*Curso de Inicialización en JavaScript*__ 
 
 </div>
 
