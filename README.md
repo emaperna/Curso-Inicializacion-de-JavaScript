@@ -1,4 +1,8 @@
-# Curso Inicial de JavaScript
+<div align="center">
+  
+# __*Curso Inicial de JavaScript*__ 
+
+</div>
 
 ## Contenidos
 
