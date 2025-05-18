@@ -14,3 +14,10 @@
 
 
 ## (En Desarrollo!)
+
+
+
+---
+
+## ⚠️ Derechos Reservados  
+**© 2025 - Todos los derechos reservados**
